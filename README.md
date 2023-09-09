@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate Data Science enthusiast and love 
 
 Here are some of the data-related projects I've been working on:
 
-- [Project 1: Predictive Model for Sales](Link to Project 1)
-- [Project 2: Customer Segmentation](Link to Project 2)
-- [Project 3: Exploratory Data Analysis of COVID-19 Data](Link to Project 3)
+- [Depressive Text Classification](https://github.com/svats125/Depressive-Text-Classification)
+- [Heat Wave and AQI Prediction](https://github.com/svats125/Nasscom_Climate_Challenge)
+- [Agrofarm](https://github.com/svats125/Agroculture)
 
 ## Skills
 
