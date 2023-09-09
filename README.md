@@ -27,7 +27,7 @@ Here are some of the data-related projects I've been working on:
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/satyam-vats-107956201/
+- LinkedIn: [LinkedIN](https://www.linkedin.com/in/satyam-vats-107956201/)
 - Twitter: [Twitter](https://twitter.com/vatss125)
 
 Feel free to explore my data projects and reach out to discuss all things data science! Let's turn data into insights together! 📈🔍
